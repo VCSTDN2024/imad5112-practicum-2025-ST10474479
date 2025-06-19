@@ -74,10 +74,10 @@ class Playlist : AppCompatActivity() {
         // Loop through the songs and append each one's details to the string
         if (song.isNotEmpty()) {
             for (i in song.indices) {
-                stringBuilder.append("🎵 Song: ${song[i]}\n")
-                stringBuilder.append("🎤 Artist: ${artistName[i]}\n")
-                stringBuilder.append("⭐ Rating: ${rating[i]}\n")
-                stringBuilder.append("💬 Comments: ${comments[i]}\n\n")
+                stringBuilder.append("Song: ${song[i]}\n")
+                stringBuilder.append("Artist: ${artistName[i]}\n")
+                stringBuilder.append("Rating: ${rating[i]}\n")
+                stringBuilder.append("Comments: ${comments[i]}\n\n")
             }
             // Show the complete formatted result
             displayTextView.text = stringBuilder.toString()
