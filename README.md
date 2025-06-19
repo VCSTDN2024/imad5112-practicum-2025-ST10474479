@@ -9,7 +9,7 @@
 - **Subject**:IMAD5112
 
 ## Links
-- **GitHub Repository**[https://github.com/VCSTDN2024/imad5112-assignment-2-ST10474479.git](https://github.com/VCSTDN2024/imad5112-practicum-2025-ST10474479.git)
+- **GitHub Repository**[
 
 ## Project Overview
 
